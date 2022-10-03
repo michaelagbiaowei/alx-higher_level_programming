@@ -23,4 +23,4 @@ Files | Description
 [100-let_me_const.js](./100-let_me_const.js) | JS file that modifies the value of myVar (in another file) to 333
 [101-call_me_moby.js](./101-call_me_moby.js) | JS function that executes x times a function
 [102-add_me_maybe.js](./102-add_me_maybe.js) | JS function that increments and calls a function
-[103-object_fct.js](./103-object_fct.js) | JS script that adds a new function incr that increments the integer value of the object myObject
+[103-object_fct.js](./103-object_fct.js) | JS script that adds a new function incr that increments the integer value of the object my Object
